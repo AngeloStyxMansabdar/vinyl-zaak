@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Dark Side of The Moon",
+    "artist": "Pink Floyd",
+    "year": 1973,
+    "genre": "Rock",
+    "price": 19.99,
+    "imageUrl": "invoegen",
+    "description": "Een klassiek album met tijdloze nummers."
+  },
+  {
+    "id": 2,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "year": 1982,
+    "genre": "Pop",
+    "price": 17.99,
+    "imageUrl": "invoegen",
+    "description": "Het best verkochte album aller tijden."
+  }
+]
