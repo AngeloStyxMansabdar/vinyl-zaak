@@ -10,8 +10,13 @@ nav {
   background: #ffffff;
   padding: 15px 25px;
   display: flex;
+  align-items: center;
   gap: 20px;
   border-bottom: 2px solid #66bb6a;
+}
+
+nav img {
+  height: 40px;
 }
 
 nav a {
@@ -83,7 +88,7 @@ h1, h2, h3 {
 }
 
 textarea {
-  width: 100%;
+  width: 98%;
   height: 90px;
   padding: 10px;
   border-radius: 8px;

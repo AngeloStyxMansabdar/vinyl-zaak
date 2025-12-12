@@ -16,6 +16,8 @@ const App = () => {
           <Route path="/collection" element={<Collection />} />
           <Route path="/detail/:id" element={<Detail />} />
           <Route path="/community" element={<Community />} />
+          {/*<Route path="/overons" element={<OverOns />} />*/}
+          {/*<Route path="/contact" element={<Contact />} />*/}
         </Routes>
       </BrowserRouter>
   );
